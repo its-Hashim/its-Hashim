@@ -1,8 +1,12 @@
 
 👋 Hi, I’m SK Hasem Ali
+
 🔭 Dedicated and efficient full stack developer with 3+ years experience in application layers, presentation layers, and databases
+
 🌱 I’m currently working as Software Developer at Tata Consultancy Service.
+
 💞️ I’m looking to collaborate on any interesting domain related to Software Application.
+
 📫 How to reach me? Just say hello @ skhasemali52@gmail.com
 
 <!--
